@@ -1,6 +1,8 @@
 ## Hi there 👋
 # 💫 About Me:
 I am a tech enthousiast<br>
+I am currently learning python.
+
 
 
 ## 🌐 Socials:
