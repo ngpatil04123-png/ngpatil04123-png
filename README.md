@@ -1,4 +1,4 @@
-## Hi there 👋
+## Never give up🦊🍃
 # 💫 About Me:
 I am a tech enthousiast<br>
 I am currently learning python.
