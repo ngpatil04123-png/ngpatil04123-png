@@ -1,5 +1,5 @@
 ## Never give up🦊🍃
-# 💫 About Me:
+# 💫 This is me (●'◡'●) 🌀:
 I am a tech enthousiast<br>
 I am currently learning python.
 
